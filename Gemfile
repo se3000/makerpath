@@ -5,6 +5,7 @@ gem 'rails', '4.0.0.beta1'
 
 gem 'pg'
 gem 'devise'
+gem 'protected_attributes'
 
 # Gems used only for assets and not required
 # in production environments by default.
